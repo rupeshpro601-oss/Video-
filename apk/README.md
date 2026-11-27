@@ -2,7 +2,7 @@
 
 A ready-to-install debug build of [r987r/Vs-code-mobile](https://github.com/r987r/Vs-code-mobile)
 ("VS Code Mobile — GitHub Codespaces on Android"), built from upstream `main`
-(commit `ee315c1`) exactly as described in its README:
+(commit `d1de06e`, upstream `main`) exactly as described in its README:
 
 - Built with: Gradle 8.4 / AGP 8.2.2 / Kotlin 1.9.22 / compileSdk 34 / JDK 17
 - Command: `./gradlew assembleDebug`
